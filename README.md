@@ -1,2 +1,5 @@
-# UAS_PDPM
-Tugas UAS untuk Memenuhi penilaian matakuliah praktikum dasar pemrograman mobile oleh ALFI SYAHRIN SIREGAR 213510811 5D
+# Snack Expo (MERN)
+
+FrontEnd :
+https://snack.expo.dev/@alriawi/6?platform=web
+ 
